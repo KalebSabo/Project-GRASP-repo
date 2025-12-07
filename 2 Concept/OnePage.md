@@ -45,7 +45,7 @@ Hand drawn images, digital sketches
 Limited animation (rain particles, glitch effects, blinking UI)
 
 **90-Day Commitment**  
-Kaleb Sabo, Dante 
+Kaleb Sabo, Dante Feramisco
 Start: 05 Dec 2025  Finish: 05 Mar 2026  
 Scope locked at end of pre-production (Day 18). No new features after that date.
 
