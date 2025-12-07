@@ -1,5 +1,5 @@
 # Milestone Checklist – 90-Day VNRPG
-**Project:** GRASP
+**Project:** Glimpse
 **Start date:** December 05, 2025  
 **Release date:** March 05, 2026 (Day 90)
 
