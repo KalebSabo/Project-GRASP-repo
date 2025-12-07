@@ -6,7 +6,7 @@
 | Milestone                  | Target Day | Target Date   | Status     | Notes / Proof                              |
 |----------------------------|------------|---------------|------------|--------------------------------------------|
 | **Pre-Production Complete**|            |               |            |                                            |
-| Concept locked             | Day 3      | Dec 07        | ☐          | One-page + elevator pitch approved         |
+| Concept locked             | Day 3      | Dec 07        | ✅          | One-page + elevator pitch approved         |
 | Story outline finished     | Day 8      | Dec 12        | ☐          | 3-Act structure + endings matrix           |
 | All character bibles done  | Day 10     | Dec 14        | ☐          | 4–6 main characters with refs              |
 | Gameplay systems designed  | Day 12     | Dec 16        | ☐          | Stats, skills, consequences table          |
