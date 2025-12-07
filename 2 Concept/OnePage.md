@@ -5,15 +5,14 @@ GRASP
 **Final title can change until Day 60
 
 **Logline**  
-Awaken as the Astronaut on a ship with other companions in cryo-genic sleep. There is a problem. How to solve it is up to you, through your companions, knowledge or dialogue. The atmosphere is fluid, from the starship to the surface of unknown planets, exploration is yours to take.   
+Awaken as the Astronaut to red strobbing lights, alarms screaming...there is a problem. How to solve it is up to you, through your companions, learned knowledge or previous dialogue. The atmosphere is fluid, from the starship to the surface of unknown planets, explore this fantastical world through a VNRPG experience.   
 
 **Genre & Tone**  
 Silent Protagonist x Soft/Loud mood swings
-Noir, Silence, Scenic, 
+Noir, Silence, Scenic, Companions bring different themes
 
 **Core Fantasy**  
-Adrift, Survival, Freedom
-Your decisions can lead to your survival and so much more
+Adrift, Survival, Freedom of choice
 
 **Target Length & Scope** (locked for 90 days)  
 ∼2 hours first playthrough  
@@ -34,7 +33,6 @@ Each levels 0–10 through choices. High stats unlock exclusive scenes, allies, 
 **Unique Selling Hooks**  
 - Dialogue IS combat — no separate battle screen  
 - Your skill levels literally rewrite later dialogue options in real time  
-- One save slot only (hardcore choice permanence)  
 - Ending screen shows your final choice
 
 **Target Platforms & Price**  
