@@ -5,7 +5,7 @@ GRASP
 **Final title can change until Day 60
 
 **Logline**  
-You are the Astronaut destined to finish the mission, navigate failing systems using real-world concepts and methods, converse with robots, aliens and everything in-between to find out what you were sent here to do. 
+Awaken as the Astronaut on a ship with other companions in cryo-genic sleep. There is a problem. How to solve it is up to you, through your companions, knowledge or dialogue. The atmosphere is fluid, from the starship to the surface of unknown planets, exploration is yours to take.   
 
 **Genre & Tone**  
 Silent Protagonist x Soft/Loud mood swings
