@@ -1,4 +1,4 @@
-# GRASP
+# Glimpse
 
 > **An Edu-tainment VNRPG • 2 hours • 4 endings • 90-day dev sprint**
 
