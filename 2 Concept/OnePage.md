@@ -1,7 +1,7 @@
-# One-Page Concept – GRASP
+# One-Page Concept – Glimpse
 
 **Working Title** 
-GRASP  
+Glimpse  
 **Final title can change until Day 60
 
 **Logline**  

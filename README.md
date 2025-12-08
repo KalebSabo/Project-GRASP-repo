@@ -1,4 +1,4 @@
-# GRASP
+# Glimpse
 
 > **An Edu-tainment VNRPG • 2 hours • 4 endings • 90-day dev sprint**
 
@@ -21,7 +21,7 @@
 | Beta + final art           | Feb 27     | Not Started     |
 | Release                    | Feb 26     | Not Started     |
 
-Live devlog: #GRASP on Twitter
+Live devlog: #Glimpse on Twitter
 
 ### Media
 TBA

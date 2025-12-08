@@ -1,5 +1,5 @@
 # Risk Register – 90-Day VNRPG
-**Project:** GRASP  
+**Project:** Glimpse
 **Last updated:** 12/5/2025
 **Owner:** Kaleb Sabo
 
